@@ -1,2 +1,2 @@
 # Concepts-of-JAVA
-This repository contains all the basic concepts of Java .
+This repository contains all of the basic concepts of Java .
