@@ -1,4 +1,4 @@
-package infojava;
+package info.java;
 
 public class Class4_TypecastingExcercise {
 //Equation between a and b 

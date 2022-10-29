@@ -1,4 +1,4 @@
-package infojava;
+package info.java;
 
 import java.util.Scanner;
 

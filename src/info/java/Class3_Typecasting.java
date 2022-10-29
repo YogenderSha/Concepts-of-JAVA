@@ -1,4 +1,4 @@
-package infojava;
+package info.java;
 
 public class Class3_Typecasting {
 

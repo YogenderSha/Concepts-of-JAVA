@@ -1,4 +1,4 @@
-package infojava;
+package info.java;
 
 public class class8_pattern {
 
